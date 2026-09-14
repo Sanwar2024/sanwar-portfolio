@@ -1,6 +1,7 @@
+import { FaGithub, FaLinkedin } from "react-icons/fa";
 import React, { useState, useEffect } from "react";
 import {
-  Menu, X, Github, Linkedin, Mail, Download, ExternalLink,
+  Menu, X, Mail, Download, ExternalLink,
   Code2, Server, Database, GitBranch, ArrowUpRight, Send,
   GraduationCap, Terminal, Layers, CheckCircle2, MapPin
 } from "lucide-react";
